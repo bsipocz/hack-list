@@ -1,0 +1,15 @@
+title: Hacks Collector
+creators:
+  dotastronomy8:
+    - Erik Tollerud
+    - Daina Bouquin
+    - Tom Robitaille
+    - Edward Gomez
+    - Becky Smethurst
+    - Arna Karick
+  astrohackweek2016:
+    - Brigitta Sipocz
+description:
+    A way to archive all hacks made at AstroHackWeek conferences. Each hack has a separate YML file containing all meta data. The YAML files are validated and we then auto-build a new version of the website with the new hack listed.
+source-url: http://github.com/dotastro/hacks-collector
+live-url: https://dotastro.github.io/hacks-collector/
